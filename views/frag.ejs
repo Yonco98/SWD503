@@ -1,0 +1,66 @@
+<link rel="stylesheet" href="mestyle.css">
+<p>
+    <body> 
+<table class="table table-striped custab">
+       
+        <h1> Frags </h1>
+        <h2>
+            <a href="/">Index</a>
+            <a href="/create-frag">Create Frag</a>
+        </h2>
+        
+    <thead>
+        <tr>
+            <th>Player: </th>
+            <th>Identifier: </th>
+            <th>Weapon: </th>
+            <th>Against: </th>
+            <th>Score: </th>
+            <th>Event: </th>
+            <th>Map: </th>
+            <th>Edit </th>
+
+        </tr>
+
+        <%  
+        
+          frags.forEach(frag => {
+            
+        %>
+
+            <tr>
+                <td><%=  frag.Player  %></td>
+                <td><%=  frag.Identifier  %></td>
+                <td><%=  frag.Weapon  %></td>
+                <td><%=  frag.Against  %></td>
+                <td><%=  frag.Score  %></td>
+                <td><%=  frag.Event  %></td>
+                <td><%=  frag.Map %></td>
+                <td>
+                    <form action="/edit-frag" method="GET">
+                        <input type="hidden" name="player" value="<%=  frag.Player  %>"/>
+                        <input type="hidden" name="identifier" value="<%=  frag.Identifier  %>"/>
+                        <input type="hidden" name="weapon" value="<%=  frag.Weapon  %>"/>
+                        <input type="hidden" name="against" value="<%=  frag.Against  %>"/>
+                        <input type="hidden" name="score" value="<%=  frag.Score  %>"/>
+                        <input type="hidden" name="event" value="<%=  frag.Event  %>"/>
+                        <input type="hidden" name="map" value="<%=  frag.Map %>"/>
+                        <input type="submit" value="Edit" />
+                    </form>
+                    <form action="/delete/<%=  frag.Identifier  %>" method="POST">
+                        <input type="submit" value="Delete" />
+                    </form>    
+                </td>
+                 
+            </tr>
+
+        <%  
+        
+        });
+              
+        %>
+
+    </thead>
+    </table>
+</p>    
+    </body>

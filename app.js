@@ -1,117 +1,53 @@
+// Environment config
 require("dotenv").config();
+const { WEB_PORT, MONGODB_URI } = process.env;
+
+// Dependencies
 const express = require("express");
 const path = require("path");
 const mongoose = require("mongoose");
 const chalk = require("chalk");
 const bodyParser = require("body-parser");
-const countriesModel = require("./models/Country");
-const expressSession = require("express-session");
-const User = require("./models/User");
 
+const resourcesDir = "resources";
 
-/**
- * Controllers (route handlers).
- */
-const tasterController = require("./controllers/taster");
-const tastingController = require("./controllers/tasting");
-const homeController = require("./controllers/home");
-const userController = require("./controllers/user");
-
+// App setup
 const app = express();
 app.set("view engine", "ejs");
 
-/**
- * notice above we are using dotenv. We can now pull the values from our environment
- */
-
-const { PORT, MONGODB_URI } = process.env;
-
-/**
- * connect to database
- */
-
-
-
-
-mongoose.connect(MONGODB_URI, { useNewUrlParser: true });
-mongoose.connection.on("error", (err) => {
-  console.error(err);
-  console.log(
-    "MongoDB connection error. Please make sure MongoDB is running.",
-    chalk.red("✗")
-  );
-  process.exit();
-});
-
-/***
- * We are applying our middlewear
- */
-app.use(express.static(path.join(__dirname, "public")));
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(express.static(path.join(__dirname, "resources")));
 
-app.use(expressSession({ secret: 'foo barr', cookie: { expires: new Date(253402300000000) } }))
-
-
-app.use("*", async (req, res, next) => {
-  global.user = false;
-  if (req.session.userID && !global.user) {
-    const user = await User.findById(req.session.userID);
-    global.user = user;
-  }
-  next();
-})
-
-const authMiddleware = async (req, res, next) => {
-  const user = await User.findById(req.session.userID);
-  if (!user) {
-    return res.redirect('/');
-  }
-  next()
-}
-
-app.get("/", homeController.list);
-
-app.get("/logout", async (req, res) => {
-  req.session.destroy();
-  global.user = false;
-  res.redirect('/');
-})
-
-app.get("/create-taster", authMiddleware, (req, res) => {
-  res.render("create-taster", { errors: {} });
+// Database connection
+mongoose.connect(MONGODB_URI, { 
+  useNewUrlParser: true, 
+  useUnifiedTopology: true, 
+  useCreateIndex: true 
 });
 
-app.post("/create-taster", tasterController.create);
+const fragsController = require("./controllers/frags");
+console.log ("bruh");
 
-app.get("/tasters", tasterController.list);
-app.get("/tasters/delete/:id", tasterController.delete);
-app.get("/tasters/update/:id", tasterController.edit);
-app.post("/tasters/update/:id", tasterController.update);
-
-
-app.get("/create-tasting", tastingController.createView);
-app.post("/create-tasting", tastingController.create);
-app.get("/update-tasting/:id", tastingController.edit);
-
-
-app.get("/tastings", tastingController.list);
-app.get("/tastings/delete/:id", tastingController.delete);
-
-app.get("/join", (req, res) => {
-  res.render('create-user', { errors: {} })
+// Routes
+app.get("/", (req, res) => {
+  console.log ("death");
+  res.render("index");
 });
+app.get("/frags", fragsController.list);
 
-app.post("/join", userController.create);
-app.get("/login", (req, res) => {
-  res.render('login-user', { errors: {} })
+app.get("/create-frag", (req, res) => {
+  res.render("create-frag");
 });
-app.post("/login", userController.login);
+app.post("/create-frag", fragsController.createfrag);
 
+app.get("/edit-frag", (req, res) => {
+  res.render("edit-frag");
+});
+app.post("/updatefrag", fragsController.updatefrag);
 
-app.listen(PORT, () => {
-  console.log(
-    `Example app listening at http://localhost:${PORT}`,
-    chalk.green("✓")
-  );
+app.post("/delete/:identifier", fragsController.delete);
+
+app.listen(WEB_PORT, () => {
+  console.log("App listening at http://localhost:${PORT}");
 });

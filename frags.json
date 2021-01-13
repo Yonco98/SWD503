@@ -1,0 +1,1571 @@
+[{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cb4"
+  },
+  "Player": "Snax",
+  "Identifier": "1v4",
+  "Weapon": "Usp-s",
+  "Against": "Navi",
+  "Score": "16",
+  "Event": "Esl one New York 2016",
+  "Map": "Cobblestone"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cb5"
+  },
+  "Player": "s1mple",
+  "Identifier": "Double no-scope",
+  "Weapon": "AWP",
+  "Against": "Fnatic",
+  "Score": "14",
+  "Event": "Esl one cologne 2016",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cb6"
+  },
+  "Player": "rain",
+  "Identifier": "1v4",
+  "Weapon": "Ak-47",
+  "Against": "VP",
+  "Score": "30",
+  "Event": "Dreamhack london",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cb7"
+  },
+  "Player": "coldzera",
+  "Identifier": "jumping awp",
+  "Weapon": "AWP",
+  "Against": "Liquid",
+  "Score": "25",
+  "Event": "MLG Columbus",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cb8"
+  },
+  "Player": "happy",
+  "Identifier": "ace",
+  "Weapon": "Deagle",
+  "Against": "TSM",
+  "Score": "17",
+  "Event": "Dreamhack london",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cb9"
+  },
+  "Player": "s1mple",
+  "Identifier": "1v1 awp throw",
+  "Weapon": "AWP",
+  "Against": "liquid",
+  "Score": "6",
+  "Event": "Esl one New York 2016",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cba"
+  },
+  "Player": "niko",
+  "Identifier": "1v5",
+  "Weapon": "Deagle",
+  "Against": "Titan",
+  "Score": "17",
+  "Event": "Esl Pro League",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cbb"
+  },
+  "Player": "dennis",
+  "Identifier": "3k",
+  "Weapon": "Usp-s",
+  "Against": "G2",
+  "Score": "16",
+  "Event": "Esl Pro League Season 3 Finals",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cbc"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "Ace",
+  "Weapon": "Deagle",
+  "Against": "Faze",
+  "Score": "21",
+  "Event": "Iem Katowice 2017",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cbd"
+  },
+  "Player": "Stewie2k",
+  "Identifier": "do or die 3k",
+  "Weapon": "Awp",
+  "Against": "Faze",
+  "Score": "30",
+  "Event": "Boston Major",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cbe"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "1v3",
+  "Weapon": "Usp-s",
+  "Against": "NRG",
+  "Score": "1",
+  "Event": "Berlin Major",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cbf"
+  },
+  "Player": "olof/fnx",
+  "Identifier": "3k/3k",
+  "Weapon": "Usp-s/Glock",
+  "Against": "Fnatic/lg",
+  "Score": "1",
+  "Event": "SL i-League StarSeries XIV Finals",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc0"
+  },
+  "Player": "Friberg",
+  "Identifier": "1v2 Spray Transfer",
+  "Weapon": "Ak-47",
+  "Against": "Fnatic",
+  "Score": "28",
+  "Event": "Katowice 2015",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc1"
+  },
+  "Player": "Hiko",
+  "Identifier": "1v5",
+  "Weapon": "Tec-9",
+  "Against": "Sponserless",
+  "Score": "25",
+  "Event": "Cevo",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc2"
+  },
+  "Player": "ChrisJ",
+  "Identifier": "Ace",
+  "Weapon": "Awp",
+  "Against": "Liquid",
+  "Score": "23",
+  "Event": "Esl one New York 2018",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc3"
+  },
+  "Player": "Niko",
+  "Identifier": "Ace",
+  "Weapon": "Deagle",
+  "Against": "Faze",
+  "Score": "2",
+  "Event": "Elague Season 1",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc4"
+  },
+  "Player": "Brehze",
+  "Identifier": "1v4",
+  "Weapon": "Usp-s",
+  "Against": "Renegades",
+  "Score": "1",
+  "Event": "Star Series",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc5"
+  },
+  "Player": "Pimp",
+  "Identifier": "3k",
+  "Weapon": "M4A4",
+  "Against": "Fnatic",
+  "Score": "29",
+  "Event": "Esl one New York 2016",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc6"
+  },
+  "Player": "Fnx",
+  "Identifier": "1v2",
+  "Weapon": "Usp-s",
+  "Against": "Fnatic",
+  "Score": "1",
+  "Event": "Iem Katowice 2016",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc7"
+  },
+  "Player": "Dosia",
+  "Identifier": "Grenade",
+  "Weapon": "Grenade",
+  "Against": "Immortals",
+  "Score": "12",
+  "Event": "Krakow 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc8"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Ace",
+  "Weapon": "Awp",
+  "Against": "Vitality",
+  "Score": "34",
+  "Event": "ESL One Cologne 2019",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cc9"
+  },
+  "Player": "Kjaerbye",
+  "Identifier": "1v4",
+  "Weapon": "Deagle",
+  "Against": "Navi",
+  "Score": "10",
+  "Event": "Dreamhack open leipzig 2016",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cca"
+  },
+  "Player": "Magisk",
+  "Identifier": "3k Spray Transfer",
+  "Weapon": "Ak-47",
+  "Against": "Optic",
+  "Score": "26",
+  "Event": "DH Masters Las Vegas 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ccb"
+  },
+  "Player": "Pasha",
+  "Identifier": "4k Spray",
+  "Weapon": "Ak-47",
+  "Against": "Fnatic",
+  "Score": "14",
+  "Event": "Esl One cologne 2015",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ccc"
+  },
+  "Player": "Jackz",
+  "Identifier": "4k",
+  "Weapon": "xm1014",
+  "Against": "Ence",
+  "Score": "19",
+  "Event": "Dramhack Masters Dallas",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ccd"
+  },
+  "Player": "s1mple",
+  "Identifier": "4k",
+  "Weapon": "Ak-47",
+  "Against": "NRG",
+  "Score": "2",
+  "Event": "Star Series",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cce"
+  },
+  "Player": "Kressey",
+  "Identifier": "4k",
+  "Weapon": "Deagle",
+  "Against": "leisure",
+  "Score": "22",
+  "Event": "Esl Meinshaft",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ccf"
+  },
+  "Player": "Rain",
+  "Identifier": "1v3",
+  "Weapon": "p250",
+  "Against": "c9",
+  "Score": "11",
+  "Event": "Elague invitaional 2019",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd0"
+  },
+  "Player": "Coldzera",
+  "Identifier": "Ace",
+  "Weapon": "M4A4",
+  "Against": "VP",
+  "Score": "32",
+  "Event": "Esl one Cologne 2016",
+  "Map": "Cobblestone"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd1"
+  },
+  "Player": "Get Right",
+  "Identifier": "4k Spray",
+  "Weapon": "M4a4",
+  "Against": "Navi",
+  "Score": "21",
+  "Event": "Dreamhack Masters Malmo 2016",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd2"
+  },
+  "Player": "Kennys",
+  "Identifier": "1v4",
+  "Weapon": "Awp",
+  "Against": "nip",
+  "Score": "30",
+  "Event": "sltvv11",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd3"
+  },
+  "Player": "andy",
+  "Identifier": "ace",
+  "Weapon": "Awp",
+  "Against": "Valience",
+  "Score": "8",
+  "Event": "ESEAMDL Season 31 Europe",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd4"
+  },
+  "Player": "Ropz ",
+  "Identifier": "Ace",
+  "Weapon": "Ump-45",
+  "Against": "cloud9",
+  "Score": "29",
+  "Event": "DreamHack Open Denver 2017",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd5"
+  },
+  "Player": "Niko",
+  "Identifier": "4k Spray",
+  "Weapon": "M4a4",
+  "Against": "Big",
+  "Score": "19",
+  "Event": "Epicenter 2017",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd6"
+  },
+  "Player": "Ethan",
+  "Identifier": "Ace",
+  "Weapon": "Ak-47",
+  "Against": "liquid",
+  "Score": "26",
+  "Event": "Road to boston major",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd7"
+  },
+  "Player": "Snax",
+  "Identifier": "Ace",
+  "Weapon": "Nova",
+  "Against": "SK",
+  "Score": "2",
+  "Event": "Dreamhack summer 2014",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd8"
+  },
+  "Player": "dev1ce",
+  "Identifier": "3k",
+  "Weapon": "CZ-75",
+  "Against": "Cloud 9",
+  "Score": "9",
+  "Event": "Eleague Premier 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cd9"
+  },
+  "Player": "Gla1ve",
+  "Identifier": "Ace/1v4",
+  "Weapon": "Ak-47",
+  "Against": "Heroic",
+  "Score": "10",
+  "Event": "esl pro league season 9 finals",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cda"
+  },
+  "Player": "Draken",
+  "Identifier": "insane flick 1v2",
+  "Weapon": "AWP",
+  "Against": "Gambit",
+  "Score": "25",
+  "Event": "Dreamhack Master Marsaille 2018",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cdb"
+  },
+  "Player": "Friberg",
+  "Identifier": "1v2",
+  "Weapon": "ak-47",
+  "Against": "Fnatic",
+  "Score": "22",
+  "Event": "Cologne 2014",
+  "Map": "cbble"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cdc"
+  },
+  "Player": "F0rest",
+  "Identifier": "1v4",
+  "Weapon": "ak-47",
+  "Against": "Astralis",
+  "Score": "5",
+  "Event": "Dreamhack Master Malmo 2019",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cdd"
+  },
+  "Player": "Taco",
+  "Identifier": "Deagle Flick",
+  "Weapon": "Deagle",
+  "Against": "Astralis",
+  "Score": "15",
+  "Event": "Blast Copenhagen 2017",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cde"
+  },
+  "Player": "Aizy",
+  "Identifier": "Ace",
+  "Weapon": "Usp-s",
+  "Against": "Heroic",
+  "Score": "16",
+  "Event": "Dreamhack Open",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cdf"
+  },
+  "Player": "Draken",
+  "Identifier": "Insaine Flick",
+  "Weapon": "AWP",
+  "Against": "North",
+  "Score": "25",
+  "Event": "IEM katowice 2018",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce0"
+  },
+  "Player": "Scream",
+  "Identifier": "1 tap",
+  "Weapon": "Ak-47",
+  "Against": "LG",
+  "Score": "4",
+  "Event": "Esl Pro LEague season 3 Finals",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce1"
+  },
+  "Player": "GeT_RiGht",
+  "Identifier": "Spray Transfer",
+  "Weapon": "ak-47",
+  "Against": "Faze",
+  "Score": "21",
+  "Event": "IEM Oakland 2017",
+  "Map": "Cobblestone"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce2"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "1 Tap",
+  "Weapon": "Deagle",
+  "Against": "VP",
+  "Score": "7",
+  "Event": "pgl season 1 grand final",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce3"
+  },
+  "Player": "Guardian",
+  "Identifier": "1v2",
+  "Weapon": "Knife",
+  "Against": "SK",
+  "Score": "28",
+  "Event": "ESL Pro League Season 6 Finals",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce4"
+  },
+  "Player": "Maikelele",
+  "Identifier": "fast 3k",
+  "Weapon": "awp",
+  "Against": "ldlc",
+  "Score": "7",
+  "Event": "dramhack csgo championship",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce5"
+  },
+  "Player": "BARBARR",
+  "Identifier": "1v4",
+  "Weapon": "Ak-47",
+  "Against": "Godsent",
+  "Score": "28",
+  "Event": "Atlanta European Minor",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce6"
+  },
+  "Player": "K0nfig",
+  "Identifier": "jumping 1 deag",
+  "Weapon": "Deagle",
+  "Against": "Liquid",
+  "Score": "10",
+  "Event": "epicenter 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce7"
+  },
+  "Player": "Kqly",
+  "Identifier": "VAC",
+  "Weapon": "Usp-s",
+  "Against": "VP",
+  "Score": "30",
+  "Event": "Esl one cologne 2014",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce8"
+  },
+  "Player": "K0nfig",
+  "Identifier": "knife kill",
+  "Weapon": "Knife",
+  "Against": "godsent",
+  "Score": "31",
+  "Event": "Atlanta Major ",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ce9"
+  },
+  "Player": "Draken",
+  "Identifier": "1v3",
+  "Weapon": "AWP",
+  "Against": "Navi",
+  "Score": "21",
+  "Event": "Dreamhack Masters Malmo 2017",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cea"
+  },
+  "Player": "GeT_RiGht",
+  "Identifier": "4k Spray",
+  "Weapon": "AK-47",
+  "Against": "Envyus",
+  "Score": "19",
+  "Event": "Gfinity",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ceb"
+  },
+  "Player": "F0rest",
+  "Identifier": "insane 4k",
+  "Weapon": "AK-47",
+  "Against": "North",
+  "Score": "9",
+  "Event": "Iem Katowice 2018",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cec"
+  },
+  "Player": "F0rest",
+  "Identifier": "4 hs",
+  "Weapon": "p250",
+  "Against": "Copenhagen wolves",
+  "Score": "17",
+  "Event": "ESWC 2014",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457ced"
+  },
+  "Player": "F0rest",
+  "Identifier": "1v3 Spray",
+  "Weapon": "AK-47",
+  "Against": "Swole Patrol",
+  "Score": "14",
+  "Event": "Epicenter",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cee"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "1v3",
+  "Weapon": "Ak-47",
+  "Against": "Fnatic",
+  "Score": "21",
+  "Event": "Esl Pro Leage Season 10 Group Stage",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cef"
+  },
+  "Player": "Guardian",
+  "Identifier": "Ace",
+  "Weapon": "AWP",
+  "Against": "Mousports",
+  "Score": "23",
+  "Event": "ESL Pro League Season 4",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf0"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Ace",
+  "Weapon": "Mag-7",
+  "Against": "G2",
+  "Score": "17",
+  "Event": "Ecs Season 4",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf1"
+  },
+  "Player": "Nexa",
+  "Identifier": "Ace",
+  "Weapon": "Deagle",
+  "Against": "100 thieves",
+  "Score": "2",
+  "Event": "IEM Katowice 2020",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf2"
+  },
+  "Player": "F0rest",
+  "Identifier": "1v4",
+  "Weapon": "glock-18",
+  "Against": "Fnatic",
+  "Score": "16",
+  "Event": "Dreamhack Master Marsaille 2018",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf3"
+  },
+  "Player": "Shox",
+  "Identifier": "4k",
+  "Weapon": "glock-18",
+  "Against": "Virtus Pro",
+  "Score": "16",
+  "Event": "Fragbite masters",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf4"
+  },
+  "Player": "Karrigan",
+  "Identifier": "3k",
+  "Weapon": "Awp",
+  "Against": "Cloud 9",
+  "Score": "29",
+  "Event": "Iem san jose",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf5"
+  },
+  "Player": "lekr0",
+  "Identifier": "3 Deagle HS",
+  "Weapon": "Deagle",
+  "Against": "Astralis",
+  "Event": "Dreanhack Masters Stockholm 2018",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf6"
+  },
+  "Player": "Allu",
+  "Identifier": "3k Pistol Round",
+  "Weapon": "Glock-18",
+  "Against": "Virtus Pro",
+  "Score": "16",
+  "Event": "Esl One Cologne 2015",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf7"
+  },
+  "Player": "Rez",
+  "Identifier": "3k",
+  "Weapon": "Deagle",
+  "Against": "Astralis",
+  "Score": "17",
+  "Event": "Blast Pro Finals 2019",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf8"
+  },
+  "Player": "Allu ",
+  "Identifier": "Ace",
+  "Weapon": "Awp",
+  "Against": "Flipside",
+  "Score": "6",
+  "Event": "StarSeries XII",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cf9"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "3k",
+  "Weapon": "Ak-47",
+  "Against": "cloud 9",
+  "Score": "29",
+  "Event": "Esl One cologne 2014",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cfa"
+  },
+  "Player": "Byali",
+  "Identifier": "3k Spray",
+  "Weapon": "Ak-47",
+  "Against": "Renegades",
+  "Score": "42",
+  "Event": "Eleague Season 1",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cfb"
+  },
+  "Player": "Felps",
+  "Identifier": "3k Spray",
+  "Weapon": "Ak-47",
+  "Against": "Yeah",
+  "Score": "13"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cfc"
+  },
+  "Player": "s1mple",
+  "Identifier": "3k",
+  "Weapon": "Usp-s",
+  "Against": "liquid",
+  "Score": "17",
+  "Event": "ESL One New York 2016",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cfd"
+  },
+  "Player": "Stewie2k",
+  "Identifier": "Ace",
+  "Weapon": "MP9/Fire",
+  "Against": "Space Soldiers",
+  "Score": "22",
+  "Event": "ESL Belo Horizonte",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cfe"
+  },
+  "Player": "hen1",
+  "Identifier": "4k",
+  "Weapon": "AWP",
+  "Against": "Envyus",
+  "Score": "9",
+  "Event": "Dreamhack masters malmo 2016",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457cff"
+  },
+  "Player": "GeT_RiGht",
+  "Identifier": "4k Spray",
+  "Weapon": "M4a4",
+  "Against": "Navi",
+  "Score": "14",
+  "Event": "ESL Pro League s2",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d00"
+  },
+  "Player": "K0nfig",
+  "Identifier": "4k",
+  "Weapon": "4x Deagle",
+  "Against": "Secret",
+  "Score": "0/4",
+  "Event": "Home Sweet Home Cup 4",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d01"
+  },
+  "Player": "K0nfig",
+  "Identifier": "1 Tap",
+  "Weapon": "1x Deagle",
+  "Against": "fnatic",
+  "Score": "10/4",
+  "Event": "EPL S5",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d02"
+  },
+  "Player": "K0nfig",
+  "Identifier": "4k pistol round",
+  "Weapon": "4x USP",
+  "Against": "Immortals",
+  "Score": "7/8",
+  "Event": "Dreamhack malmo",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d03"
+  },
+  "Player": "K0nfig",
+  "Identifier": "3k",
+  "Weapon": "3x Fiveseven",
+  "Against": "Immortals",
+  "Score": "2/11",
+  "Event": "Katowice 2017",
+  "Map": "Cobblestone"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d04"
+  },
+  "Player": "K0nfig",
+  "Identifier": "4k",
+  "Weapon": "2x M4A4 2x P250",
+  "Against": "Virtus Pro",
+  "Score": "12/7",
+  "Event": "esl pro league",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d05"
+  },
+  "Player": "K0nfig",
+  "Identifier": "3k",
+  "Weapon": "3x M4A4",
+  "Against": "Envyus",
+  "Score": "2/2",
+  "Event": "EPL S5",
+  "Map": "Dust II"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d06"
+  },
+  "Player": "K0nfig",
+  "Identifier": "3k",
+  "Weapon": "3x awp",
+  "Against": "Optic",
+  "Score": "8/2",
+  "Event": "iem sydney 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d07"
+  },
+  "Player": "K0nfig",
+  "Identifier": "4k Pistol Round",
+  "Weapon": "4x USP-S",
+  "Against": "NIP",
+  "Score": "0/0",
+  "Event": "EPL S5",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d08"
+  },
+  "Player": "K0nfig",
+  "Identifier": "4k",
+  "Weapon": "4x AWP",
+  "Against": "Faze",
+  "Score": "6/1",
+  "Event": "Starseires 3",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d09"
+  },
+  "Player": "K0nfig",
+  "Identifier": "3k",
+  "Weapon": "3x AK-47",
+  "Against": "Luminosity",
+  "Score": "9/3",
+  "Event": "ECS Season 5",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d0a"
+  },
+  "Player": "K0nfig",
+  "Identifier": "4k",
+  "Weapon": "4x AK-47",
+  "Against": "G2",
+  "Score": "6/13",
+  "Event": "Malmo 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d0b"
+  },
+  "Player": "K0nfig",
+  "Identifier": "fast 4k",
+  "Weapon": "4x AK-47",
+  "Against": "Cloud 9",
+  "Score": "6/0",
+  "Event": "EPL S7",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d0c"
+  },
+  "Player": "K0nfig",
+  "Identifier": "4k",
+  "Weapon": "4x M4A4",
+  "Against": "Ex-Outlaws",
+  "Score": "6/0",
+  "Event": "IEM Oakland EU Qual",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d0d"
+  },
+  "Player": "K0nfig",
+  "Identifier": "1v3",
+  "Weapon": "4x AK-47",
+  "Against": "NAVI",
+  "Score": "7/6",
+  "Event": "GOCL s2",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d0e"
+  },
+  "Player": "K0nfig",
+  "Identifier": "Eco Ace",
+  "Weapon": "4x AK-47 1x Deagle",
+  "Against": "Astralis",
+  "Score": "5/8",
+  "Event": "Cologne 2016",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d0f"
+  },
+  "Player": "K0nfig",
+  "Identifier": "3K Pistol Round",
+  "Weapon": "3x P2000",
+  "Against": "NIP",
+  "Score": "0/0",
+  "Event": "Epicenter 2016",
+  "Map": "Cobblestone"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d10"
+  },
+  "Player": "K0nfig",
+  "Identifier": "Jumping 1 Tap",
+  "Weapon": "2x Deagle",
+  "Against": "Liquid",
+  "Score": "1/8",
+  "Event": "Epicenter 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d11"
+  },
+  "Player": "K0nfig",
+  "Identifier": "1 tap  ",
+  "Weapon": "USP",
+  "Against": "G2",
+  "Score": "8/7",
+  "Event": "Malmo 2017",
+  "Map": "Cobblestone"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d12"
+  },
+  "Player": "K0nfig",
+  "Identifier": "eco 1v3",
+  "Weapon": "AK-47",
+  "Against": "Optic",
+  "Score": "18",
+  "Event": "EPL S5 Finals",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d13"
+  },
+  "Player": "K0nfig",
+  "Identifier": "1 tap",
+  "Weapon": "AK-47",
+  "Against": "Penta",
+  "Score": "9/8",
+  "Event": "PGL Krakow 17",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d14"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Fast 3k",
+  "Weapon": "Usp-s",
+  "Against": "G2",
+  "Score": "16",
+  "Event": "Esl Pro League S9",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d15"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Legendary 1v3",
+  "Weapon": "Usp-s",
+  "Against": "NRG",
+  "Score": "1",
+  "Event": "Berlin Major",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d16"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "1v4",
+  "Weapon": "Ak-47",
+  "Against": "Optic",
+  "Score": "20",
+  "Event": "Eleague season 2",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d17"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Flick Through Smoke",
+  "Weapon": "Awp",
+  "Against": "Cra4zy",
+  "Score": "28",
+  "Event": "Berlin Major",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d18"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Fast 3k",
+  "Weapon": "Scout",
+  "Against": "Nip",
+  "Score": "18",
+  "Event": "London Major",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d19"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "3k",
+  "Weapon": "CZ-75",
+  "Against": "Cloud 9",
+  "Score": "9",
+  "Event": "Eleague Premier 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d1a"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Collateral",
+  "Weapon": "Awp",
+  "Against": "Mibr",
+  "Score": "9",
+  "Event": "Blast sao paulo",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d1b"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Double Knife",
+  "Weapon": "Knife",
+  "Against": "SK",
+  "Score": "16",
+  "Event": "Ecs Season 2 Finals",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d1c"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Legendary Ace",
+  "Weapon": "Awp",
+  "Against": "Vitality",
+  "Score": "34",
+  "Event": "ESL One Cologne 2019",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d1d"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "4k Pistol Round",
+  "Weapon": "Usp-s",
+  "Against": "Renegades",
+  "Score": "16",
+  "Event": "Katowice Major 2019",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d1e"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "3k Spray",
+  "Weapon": "M4a4",
+  "Against": "MIBR",
+  "Score": "3",
+  "Event": "Blast Pro Istanbul",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d1f"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Crazy 4k",
+  "Weapon": "M4a4/Fire/Five seven",
+  "Against": "Envyus",
+  "Score": "9",
+  "Event": "Dreamhack London",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d20"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Fast 4k",
+  "Weapon": "AK-47",
+  "Against": "Nip",
+  "Score": "3",
+  "Event": "Esl Pro League S2",
+  "Map": "Cobblestone"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d21"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Pistol Round 3k",
+  "Weapon": "Glock",
+  "Against": "Kinguin",
+  "Score": "16",
+  "Event": "ESL One Cologne 2015",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d22"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Ace",
+  "Weapon": "Mag-7",
+  "Against": "G2",
+  "Score": "17",
+  "Event": "Ecs Season 4",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d23"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Wallbang",
+  "Weapon": "AWP",
+  "Against": "Navi",
+  "Score": "10",
+  "Event": "Star Series Season 3",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d24"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "4k Spray",
+  "Weapon": "Ump-45",
+  "Against": "Renegades",
+  "Score": "4",
+  "Event": "IEM Sydney 2017",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d25"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "HS",
+  "Weapon": "Deagle",
+  "Against": "SK",
+  "Score": "20",
+  "Event": "Atlanta 2017",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d26"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Flick",
+  "Weapon": "Awp",
+  "Against": "SK",
+  "Score": "27",
+  "Event": "Eleague Season 2",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d27"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "2k",
+  "Weapon": "AK-47",
+  "Against": "Nip",
+  "Score": "14",
+  "Event": "Iem Katowice 2015",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d28"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "Ace",
+  "Weapon": "Aug",
+  "Against": "Cloud 9",
+  "Score": "20",
+  "Event": "IBP Masters 2020",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d29"
+  },
+  "Player": "Dev1ce",
+  "Identifier": "3k",
+  "Weapon": "Deagle",
+  "Against": "m1x",
+  "Score": "9",
+  "Event": "ECS Season 8",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d2a"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "Quad Kill",
+  "Weapon": "M4a4",
+  "Against": "North",
+  "Score": "20",
+  "Event": "Dreamhack masters stockholm 2018",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d2b"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "1v3",
+  "Weapon": "Awp",
+  "Against": "SK",
+  "Score": "14",
+  "Event": "Blast Copenhagen 2017",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d2c"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "Ace",
+  "Weapon": "Deagle",
+  "Against": "Faze",
+  "Score": "21",
+  "Event": "Iem Katowice 2017",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d2d"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "1 Tap",
+  "Weapon": "Deagle",
+  "Against": "VP",
+  "Score": "7",
+  "Event": "pgl season 1 grand final",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d2e"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "4k",
+  "Weapon": "M4a4",
+  "Against": "Mouseports",
+  "Score": "35",
+  "Event": "esl pro league season 10 finals",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d2f"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "4k",
+  "Weapon": "Deagle",
+  "Against": "Liquid",
+  "Score": "24",
+  "Event": "Blast pro Finals",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d30"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "1v3",
+  "Weapon": "Ak-47",
+  "Against": "Fnatic",
+  "Score": "21",
+  "Event": "Esl Pro Leage Season 10 Group Stage",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d31"
+  },
+  "Player": "Xyp9x",
+  "Identifier": " ",
+  "Weapon": "M4a4/Usp-s",
+  "Against": "Cloud 9",
+  "Score": "4",
+  "Event": "Blast Copenhagen 2019",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d32"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "Ace",
+  "Weapon": "Awp",
+  "Against": "Navi",
+  "Score": "27",
+  "Event": "Blast Pro Madrid",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d33"
+  },
+  "Player": "Karrigan",
+  "Identifier": "3k",
+  "Weapon": "Awp",
+  "Against": "Cloud 9",
+  "Score": "29",
+  "Event": "Iem san jose",
+  "Map": "Cache"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d34"
+  },
+  "Player": "Xyp9x",
+  "Identifier": "Ace",
+  "Weapon": "M4a4",
+  "Against": "Nip",
+  "Score": "8",
+  "Event": "Dreamhack Las Vegas",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d35"
+  },
+  "Player": "Kjaerbye",
+  "Identifier": "4k",
+  "Weapon": "Ak-47",
+  "Against": "Optic",
+  "Score": "12",
+  "Event": "Dreamhack Las Vegas",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d36"
+  },
+  "Player": "Cajunb",
+  "Identifier": "1v4",
+  "Weapon": "Glock-18",
+  "Against": "Envyus",
+  "Score": "16",
+  "Event": "Iem Gamescom 2015",
+  "Map": "Cobblestone"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d37"
+  },
+  "Player": "xyp9x ",
+  "Identifier": "1v5",
+  "Weapon": "knife?",
+  "Against": "North",
+  "Score": "20",
+  "Event": "Iem Chicago 2018",
+  "Map": "Nuke"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d38"
+  },
+  "Player": "Fetish",
+  "Identifier": "1v3",
+  "Weapon": "Ak-47",
+  "Against": "Fnatic",
+  "Score": "15",
+  "Event": "Esl one cologne 2014",
+  "Map": "Dust 2"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d39"
+  },
+  "Player": "Dupreeh",
+  "Identifier": "3k",
+  "Weapon": "Ak-47",
+  "Against": "cloud 9",
+  "Score": "29",
+  "Event": "Esl One cologne 2014",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d3a"
+  },
+  "Player": "Magisk",
+  "Identifier": "Ace",
+  "Weapon": "Usp-s",
+  "Against": "Liquid",
+  "Score": "1",
+  "Event": "London Major",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d3b"
+  },
+  "Player": "Magisk",
+  "Identifier": "4k",
+  "Weapon": "Glock-18",
+  "Against": "Liquid",
+  "Score": "1",
+  "Event": "IEM Chicago 2018",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d3c"
+  },
+  "Player": "Gla1ve",
+  "Identifier": "Ace",
+  "Weapon": "M4a4",
+  "Against": "Liquid",
+  "Score": "21",
+  "Event": "ESL Pro League Season 8 Finals",
+  "Map": "Mirage"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d3d"
+  },
+  "Player": "Gla1ve",
+  "Identifier": "Ace/1v4",
+  "Weapon": "Ak-47",
+  "Against": "Heroic",
+  "Score": "10",
+  "Event": "esl pro league season 9 finals",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d3e"
+  },
+  "Player": "Magisk",
+  "Identifier": "4k",
+  "Weapon": "Ak-47",
+  "Against": "Vega",
+  "Score": "12",
+  "Event": "London Major",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d3f"
+  },
+  "Player": "xyp9x",
+  "Identifier": "3k Through the wall",
+  "Weapon": "Ak-47",
+  "Against": "North",
+  "Score": "20",
+  "Event": "Blast Copenhagen 2017",
+  "Map": "Overpass"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d40"
+  },
+  "Player": "Kjaerbye",
+  "Identifier": "1v4",
+  "Weapon": "Deagle",
+  "Against": "Navi",
+  "Score": "10",
+  "Event": "Dreamhack open leipzig 2016",
+  "Map": "Train"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d41"
+  },
+  "Player": "Magisk",
+  "Identifier": "3k Spray Transfer",
+  "Weapon": "Ak-47",
+  "Against": "Optic",
+  "Score": "26",
+  "Event": "DH Masters Las Vegas 2017",
+  "Map": "Inferno"
+},{
+  "_id": {
+    "$oid": "5fe8c10577765782e2457d42"
+  },
+  "Player": "Magisk",
+  "Identifier": "4k Pistol Round",
+  "Weapon": "Usp-s",
+  "Against": "Cloud 9",
+  "Score": "16",
+  "Event": "Pgl Krakow 2017",
+  "Map": "Mirage"
+}]

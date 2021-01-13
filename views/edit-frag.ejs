@@ -1,0 +1,53 @@
+
+
+            
+        <p id = "displayplayer"></p>
+        <p id = "displayidentifier"></p>
+        <p id = "displayweapon"></p>
+        <p id = "displayagainst"></p>
+        <p id = "displayscore"></p>
+        <p id = "displayevent"></p>
+        <p id = "displaymap"></p>
+
+
+<script type ="text/javascript">
+    var urlParams = new URLSearchParams(location.search);
+    document.getElementById("displayplayer").innerHTML="Player: " + urlParams.get("player");
+    document.getElementById("displayidentifier").innerHTML="Identifier: " + urlParams.get("identifier");
+    document.getElementById("displayweapon").innerHTML="Weapon: " + urlParams.get("weapon");
+    document.getElementById("displayagainst").innerHTML="Against: " + urlParams.get("against");
+    document.getElementById("displayscore").innerHTML="Score: " + urlParams.get("score");
+    document.getElementById("displayevent").innerHTML="Event: " + urlParams.get("event");
+    document.getElementById("displaymap").innerHTML="Map: " + urlParams.get("map");
+
+</script>
+<link rel="stylesheet" href="mestyle.css">
+    <body>
+        <h1> Edit Frags </h1>
+        <form action="/updatefrag" method="POST">
+            <label for="player">Player: </label><br>
+            <input type="text" name="player" id="player">
+            <br>
+            <label for="identifier">New Identifier: </label><br>
+            <input type="text" name="identifier" id="identifier"><br>
+            <label for="originalidentifier">Original Identifier:</label>
+            <input type="text" name="originalidentifier" id="originalidentifier" value="">
+            <br> 
+            <label for="weapon">Weapon: </label><br>
+            <input type="text" name="weapon" id="weapon">
+            <br> 
+            <label for="against">Against: </label><br>
+            <input type="text" name="against" id="against">
+            <br> 
+            <label for="score">Score: </label><br>
+            <input type="text" name="score" id="score">
+            <br>
+            <label for="event">Event: </label><br>
+            <input type="text" name="event" id="event">
+            <br>
+            <label for="map">Map: </label><br>
+            <input type="text" name="map" id="map">
+            <br>  
+            <input type="submit" value="Edit" />
+        </form>        
+    </body>
