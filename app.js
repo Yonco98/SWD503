@@ -27,11 +27,10 @@ mongoose.connect(MONGODB_URI, {
 });
 
 const fragsController = require("./controllers/frags");
-console.log ("bruh");
+
 
 // Routes
 app.get("/", (req, res) => {
-  console.log ("death");
   res.render("index");
 });
 app.get("/frags", fragsController.list);
