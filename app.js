@@ -1,6 +1,6 @@
 // Environment config
 require("dotenv").config();
-const { WEB_PORT, MONGODB_URI } = process.env;
+const { PORT, MONGODB_URI } = process.env;
 
 // Dependencies
 const express = require("express");
@@ -47,6 +47,6 @@ app.post("/updatefrag", fragsController.updatefrag);
 
 app.post("/delete/:identifier", fragsController.delete);
 
-app.listen(WEB_PORT, () => {
+app.listen(PORT, () => {
   console.log("App listening at http://localhost:${PORT}");
 });
